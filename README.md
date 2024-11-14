@@ -55,7 +55,7 @@ I'm a passionate .NET Developer with a strong interest in full-stack development
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/branislav-dokic-ba86012aa/)
 
 ---
 
