@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi there, I'm Your Name <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, Branislav Dokic <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
@@ -19,7 +19,7 @@ I'm a passionate .NET Developer with a strong interest in full-stack development
 - 🔭 I’m currently working on .NET-based projects
 - 🌱 I’m exploring advanced front-end frameworks and cloud solutions
 - 💬 Ask me about .NET, C#, or software architecture
-- 📫 Reach out at: [youremail@example.com](mailto:youremail@example.com)
+- 📫 Reach out at: [bakimacola@gmail.com](mailto:youremail@example.com)
 
 ---
 
@@ -56,7 +56,6 @@ I'm a passionate .NET Developer with a strong interest in full-stack development
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
 
 ---
 
