@@ -62,7 +62,7 @@ I'm a passionate .NET Developer with a strong interest in full-stack development
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=BranislavDokic&show_icons=true&theme=radical" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
