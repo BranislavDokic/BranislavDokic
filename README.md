@@ -69,7 +69,7 @@ I'm a passionate .NET Developer with a strong interest in full-stack development
 ---
 
 ### 🎨 Personal Projects
-- **Project 1:** Brief description
+- **Project 1:** Brief descriptio
 - **Project 2:** Brief description
 - **Project 3:** Brief description
 
